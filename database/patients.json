@@ -1,0 +1,210 @@
+[
+{
+    "name":"Arun",
+    "address":"mumbai, India",
+    "email":"Arun@gmail.com",
+    "phoneno":9640895684,
+    "password":"Pass2768",
+    "psychId":1
+},
+{
+    "name":"Tushaar" ,
+    "address":"Dehli, India",
+    "email":"Tushaar@gmail.com",
+    "phoneno":9640848064,
+    "password":"Pass7393",
+    "psychId":2
+},
+{
+    "name":"Meena",
+    "address":"Dehli, India",
+    "email":"Meena@gmail.com",
+    "phoneno":9640879648,
+    "password":"Pass6785",
+    "psychId":3
+},
+{
+    "name":"Kajol",
+    "address":"Pune, India",
+    "email":"Kajol@gmail.com",
+    "phoneno":9640784609,
+    "password":"Pass4830",
+    "psychId":4
+},
+{
+    "name":"Raveena",
+    "address":"Gujrat, India",
+    "email":"Raveena@gmail.com",
+    "phoneno":9640749260,
+    "password":"Pass4927",
+    "psychId":5
+},
+{
+    "name":"Varunn",
+    "address":"Jammu, India",
+    "email":"Varunn@gmail.com",
+    "phoneno":9640567820,
+    "password":"Pass2846",
+    "psychId":6
+},
+{
+    "name":"Bittu",
+    "address":"Ladakh, India",
+    "email":"Bittu@gmail.com",
+    "phoneno":9640106927,
+    "password":"Pass2749",
+    "psychId":7
+},
+{
+    "name":"Kiran",
+    "address":"Dehli, India",
+    "email":"@gmail.com",
+    "phoneno":9640639610,
+    "password":"Pass2893",
+    "psychId":8
+},
+{
+    "name":"Tina",
+    "address":"Kashmir, India",
+    "email":"Tina@gmail.com",
+    "phoneno":9640398490,
+    "password":"Pass1234",
+    "psychId":9
+},
+{
+    "name":"Akash",
+    "address":"Kargil, India",
+    "email":"Akash@gmail.com",
+    "phoneno":9640294058,
+    "password":"Pass2345",
+    "psychId":10
+},
+{
+    "name":"Ranbir",
+    "address":"Mumbai, India",
+    "email":"Ranbir@gmail.com",
+    "phoneno":9640203847,
+    "password":"Pass3901",
+    "psychId":1
+},
+{
+    "name":"Ranveer",
+    "address":"Gujrat, India",
+    "email":"Ranveer@gmail.com",
+    "phoneno":9640904782,
+    "password":"Pass3456",
+    "psychId":1
+},
+{
+    "name":"Mehraan",
+    "address":"Dehli, India",
+    "email":"Mehraan@gmail.com",
+    "phoneno":9640908078,
+    "password":"Pass4567",
+    "psychId":2
+},
+{
+    "name":"Jibran",
+    "address":"Gujrat, India",
+    "email":"Jibran@gmail.com",
+    "phoneno":9640905681,
+    "password":"Pass6789",
+    "psychId":3
+},
+{
+    "name":"Saleem",
+    "address":"Ladakh, India",
+    "email":"Saleem@gmail.com",
+    "phoneno":9640295730,
+    "password":"Pass5678",
+    "psychId":4
+},
+{
+    "name":"Danny",
+    "address":"Jammu, India",
+    "email":"Danny@gmail.com",
+    "phoneno":9640789823,
+    "password":"Pass7898",
+    "psychId":5
+},
+{
+    "name":"Dannyy",
+    "address":"Jammuu, India",
+    "email":"Dannyy@gmail.com",
+    "phoneno":9640789823,
+    "password":"Pass7898",
+    "psychId":6
+},
+{
+    "name":"Arunn",
+    "address":"mumbai, India",
+    "email":"Arunn@gmail.com",
+    "phoneno":9640895684,
+    "password":"Pass2768",
+    "psychId":8
+},
+{
+    "name":"Tushaarr" ,
+    "address":"Dehlii, India",
+    "email":"Tushaarr@gmail.com",
+    "phoneno":9640848064,
+    "password":"Pass7393",
+    "psychId":9
+},
+{
+    "name":"Meenaa",
+    "address":"Dehli, India",
+    "email":"Meenaa@gmail.com",
+    "phoneno":9640879648,
+    "password":"Pass6785",
+    "psychId":10
+},
+{
+    "name":"Kajoll",
+    "address":"Pune, India",
+    "email":"Kajoll@gmail.com",
+    "phoneno":9640784609,
+    "password":"Pass4830",
+    "psychId":11
+},
+{
+    "name":"Raveenaa",
+    "address":"Gujrat, India",
+    "email":"Raveenaa@gmail.com",
+    "phoneno":9640749260,
+    "password":"Pass4927",
+    "psychId":12
+},
+{
+    "name":"Varunnn",
+    "address":"Jammu, India",
+    "email":"Varunnn@gmail.com",
+    "phoneno":9640567820,
+    "password":"Pass2846",
+    "psychId":11
+},
+{
+    "name":"Bittuu",
+    "address":"Ladakh, India",
+    "email":"Bittuu@gmail.com",
+    "phoneno":9640106927,
+    "password":"Pass2749",
+    "psychId":12
+},
+{
+    "name":"Kirann",
+    "address":"Dehli, India",
+    "email":"Kirann@gmail.com",
+    "phoneno":9640639610,
+    "password":"Pass2893",
+    "psychId":13
+},
+{
+    "name":"Tinaa",
+    "address":"Kashmir, India",
+    "email":"Tinaa@gmail.com",
+    "phoneno":9640398490,
+    "password":"Pass1234",
+    "psychId":14
+}
+]
